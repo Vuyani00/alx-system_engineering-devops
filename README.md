@@ -1,1 +1,1 @@
-A collection of shell scripts to simplify tasks
+Testing out shell permissions scripts
